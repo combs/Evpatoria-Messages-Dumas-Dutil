@@ -1,6 +1,6 @@
 # Evpatoria-Messages-Dumas-Dutil
 
-Radio transmissions sent to nearby stars from Evpatoria, Ukraine, in 1999 and 2003. 
+Radio transmissions sent to nearby stars from Evpatoria, Ukraine, as part of the "Cosmic Call" in 1999 and 2003. 
 
 ![One page of the 1999 message](https://github.com/combs/Evpatoria-Messages-Dumas-Dutil/raw/master/1999/dumas-dutil-1999-119.png)
 
