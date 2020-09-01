@@ -8,11 +8,11 @@ Radio transmissions sent to nearby stars from Evpatoria, Ukraine, as part of the
 
 ## Status
 
-These are currently just PNGs in the same order as the above-linked PDF. I intend to categorize and label them, and transmogrify them to C header files. 
+Each glyph and image is broken out by its meaning, and also available by its position in the above PDF. 
 
 ## Format
 
-Processed and resized to black-and-white PNGs. 
+Processed and resized to black-and-white PNGs, C header files (packed bits), and JSON arrays (w/ structure and packed bits). 
 
 Overall pages:
 
